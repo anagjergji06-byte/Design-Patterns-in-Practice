@@ -1,0 +1,4 @@
+interface BookingObserver {
+
+    fun update()
+}
